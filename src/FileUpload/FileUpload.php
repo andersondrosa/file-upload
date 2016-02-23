@@ -1,6 +1,8 @@
 <?php
-	
-class FileUpload 
+
+namespace FileUpload;
+
+class FileUpload
 {
 	public function upload()
 	{
