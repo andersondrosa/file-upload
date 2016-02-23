@@ -1,0 +1,8 @@
+{
+    "name": "[vendor]/[nome do repositorio]",
+    "autoload": {
+        "psr-0": {
+            "Test": "src/"
+        }
+    }
+}
