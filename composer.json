@@ -1,5 +1,5 @@
 {
-    "name": "[vendor]/[nome do repositorio]",
+    "name": "andersondrosa/file-upload",
     "autoload": {
         "psr-0": {
             "Test": "src/"
